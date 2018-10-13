@@ -1,0 +1,13 @@
+node_modules/
+
+# webtorm  记录文件
+.idea
+# mac电脑对应的webstorm记录的文件
+.DS_Store
+
+# vscode记录日志文件
+.vscode
+
+package-lock.json
+
+# 配置环境变量的一些文件
